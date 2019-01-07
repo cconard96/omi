@@ -451,7 +451,7 @@ esac
 ## Check for 'pkg-config' command.
 ##
 ##==============================================================================
-
+echo $echon "this is from jagmohan    $echoc"
 echo $echon "checking whether pkg-config command is on the path... $echoc"
 
 pkgconfig=`which pkg-config`
